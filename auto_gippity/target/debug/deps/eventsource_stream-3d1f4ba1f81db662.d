@@ -1,0 +1,10 @@
+/Users/hobbes/Documents/rust_autogpt/auto_gippity/target/debug/deps/eventsource_stream-3d1f4ba1f81db662.rmeta: /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/lib.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/event.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/event_stream.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/parser.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/traits.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/Users/hobbes/Documents/rust_autogpt/auto_gippity/target/debug/deps/eventsource_stream-3d1f4ba1f81db662.d: /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/lib.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/event.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/event_stream.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/parser.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/traits.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/utf8_stream.rs
+
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/lib.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/event.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/event_stream.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/parser.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/traits.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/eventsource-stream-0.2.3/src/utf8_stream.rs:

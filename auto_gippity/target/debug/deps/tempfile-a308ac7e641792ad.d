@@ -1,0 +1,12 @@
+/Users/hobbes/Documents/rust_autogpt/auto_gippity/target/debug/deps/tempfile-a308ac7e641792ad.rmeta: /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/lib.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/dir.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/error.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/mod.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/imp/mod.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/spooled.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/util.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/imp/unix.rs
+
+/Users/hobbes/Documents/rust_autogpt/auto_gippity/target/debug/deps/tempfile-a308ac7e641792ad.d: /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/lib.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/dir.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/error.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/mod.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/imp/mod.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/spooled.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/util.rs /Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/imp/unix.rs
+
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/lib.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/dir.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/error.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/mod.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/imp/mod.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/spooled.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/util.rs:
+/Users/hobbes/.cargo/registry/src/github.com-1ecc6299db9ec823/tempfile-3.7.1/src/file/imp/unix.rs:
