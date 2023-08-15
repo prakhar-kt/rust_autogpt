@@ -6,6 +6,42 @@ use crossterm::{
 use std::io::{stdout, stdin};
 
 
+#[derive(Debug, PartialEq)]
+pub enum PrintCommand {
+    AICall,
+    UnitTest,
+    Issue
+
+}
+
+impl PrintCommand {
+    pub fn print_agent_message(&self, agent_pos: &str, agent_statement: &str) {
+
+        let mut stdout = stdout();
+
+        let statement_color: Color =  match self {
+            Self::AICall => Color::Cyan,
+            Self::UnitTest => Color::Blue,
+            Self::Issue => Color::Red
+        };
+
+        // Print the agent statement in specific color
+
+        stdout.execute(SetForegroundColor(Color::Green)).unwrap();
+        print!("Agent: {}: ", agent_pos);
+
+        stdout.execute(SetForegroundColor(statement_color)).unwrap();
+        println!("{}", agent_statement);
+
+        stdout.execute(ResetColor).unwrap();
+
+
+    }
+}
+
+
+
+
 pub fn get_user_response(question: &str) -> String {
 
     // The function takes in a question as input and
@@ -48,3 +84,16 @@ pub fn get_user_response(question: &str) -> String {
 
 
 } 
+
+#[cfg(test)]
+
+mod tests {
+    use super::*;
+
+    #[test]
+
+    fn tests_print_agent_message() {
+
+        PrintCommand::AICall.print_agent_message("Managing agent", "Testing testing processing");
+    }
+}

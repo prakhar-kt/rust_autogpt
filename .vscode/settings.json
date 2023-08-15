@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./auto_gippity/Cargo.toml"
+    ]
+}
